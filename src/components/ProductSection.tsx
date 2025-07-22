@@ -16,7 +16,7 @@ const ProductSection = () => {
     },
     {
       id: 2,
-      title: "Spesial untuk Backburner",
+      title: "Spesial untuk Backburner", 
       variant: "Matcha",
       description: "Rasa matcha yang unik, untuk kamu yang masih setia menunggu meski hanya jadi cadangan.",
       image: "/lovable-uploads/28d32ef8-7cbe-42db-a8a4-3cad2df40af7.png",
@@ -26,8 +26,8 @@ const ProductSection = () => {
     {
       id: 3,
       title: "Bimbang Karena HTS",
-      variant: "Mix",
-      description: "Saat kamu tak bisa memilih, nikmati perpaduan keduanya. Sama seperti hubunganmu yang tanpa status.",
+      variant: "Coklat + Matcha",
+      description: "Saat kamu tak bisa memilih, nikmati perpaduan coklat dan matcha. Sama seperti hubunganmu yang tanpa status.",
       image: "/lovable-uploads/1539a3d6-7a1e-4668-ac43-a839e54129ce.png",
       emotion: "🤷‍♀️",
       bgColor: "from-yellow-100 to-amber-100"
