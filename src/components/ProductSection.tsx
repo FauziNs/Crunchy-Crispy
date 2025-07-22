@@ -10,7 +10,7 @@ const ProductSection = () => {
       title: "Edisi Gagal Move On",
       variant: "Coklat",
       description: "Manisnya coklat premium yang lumer, siap menemani hatimu yang butuh pelukan.",
-      image: "/lovable-uploads/d0ae6a16-d978-4e8d-b65f-42432a560594.png",
+      image: "/lovable-uploads/53c34da0-9eb9-46e1-a850-c86c873aa2d1.png",
       emotion: "💔",
       bgColor: "from-amber-100 to-orange-100"
     },
@@ -19,7 +19,7 @@ const ProductSection = () => {
       title: "Spesial untuk Backburner", 
       variant: "Matcha",
       description: "Rasa matcha yang unik, untuk kamu yang masih setia menunggu meski hanya jadi cadangan.",
-      image: "/lovable-uploads/28d32ef8-7cbe-42db-a8a4-3cad2df40af7.png",
+      image: "/lovable-uploads/254cac50-c3cd-40f1-8103-8582d6b83146.png",
       emotion: "🥺",
       bgColor: "from-green-100 to-emerald-100"
     },
@@ -28,7 +28,7 @@ const ProductSection = () => {
       title: "Bimbang Karena HTS",
       variant: "Coklat + Matcha",
       description: "Saat kamu tak bisa memilih, nikmati perpaduan coklat dan matcha. Sama seperti hubunganmu yang tanpa status.",
-      image: "/lovable-uploads/1539a3d6-7a1e-4668-ac43-a839e54129ce.png",
+      image: "/lovable-uploads/dac6d84c-40ea-4a0f-809f-88399c033ce0.png",
       emotion: "🤷‍♀️",
       bgColor: "from-yellow-100 to-amber-100"
     }
