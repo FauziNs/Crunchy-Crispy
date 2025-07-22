@@ -26,7 +26,7 @@ const ProductSection = () => {
     {
       id: 3,
       title: "Bimbang Karena HTS",
-      variant: "Half-Half (Mix)",
+      variant: "Mix",
       description: "Saat kamu tak bisa memilih, nikmati perpaduan keduanya. Sama seperti hubunganmu yang tanpa status.",
       image: "/lovable-uploads/1539a3d6-7a1e-4668-ac43-a839e54129ce.png",
       emotion: "🤷‍♀️",
